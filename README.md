@@ -1,5 +1,8 @@
 ### Hi there 👋
-![linyanbin666's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyanbin666&show_icons=true&theme=gruvbox)
+![linyanbin666's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyanbin666&show_icons=true&theme=gruvbox)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyanbin666&theme=gruvbox&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **linyanbin666/linyanbin666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
